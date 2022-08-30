@@ -1,4 +1,4 @@
-| Database Experience								| Dificuldade | Horas |   Tipo |
+| Database Experience				| Dificuldade | Horas |   Tipo |
  |-------------------------------------------------------------	| ----------- | ----- |   ---- | 
 |Prepare-se Para a Jornada							| Básico      | 9               |      | 		
  |Conheça as Oportunidades da DIO						| Básico      |	1                     | Curso | 
